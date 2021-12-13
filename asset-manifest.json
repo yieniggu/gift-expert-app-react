@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gift-expert-app-react/static/css/main.9d2953e1.chunk.css",
+    "main.js": "/gift-expert-app-react/static/js/main.f27fcf57.chunk.js",
+    "main.js.map": "/gift-expert-app-react/static/js/main.f27fcf57.chunk.js.map",
+    "runtime-main.js": "/gift-expert-app-react/static/js/runtime-main.f63a2a84.js",
+    "runtime-main.js.map": "/gift-expert-app-react/static/js/runtime-main.f63a2a84.js.map",
+    "static/js/2.b5d0f97d.chunk.js": "/gift-expert-app-react/static/js/2.b5d0f97d.chunk.js",
+    "static/js/2.b5d0f97d.chunk.js.map": "/gift-expert-app-react/static/js/2.b5d0f97d.chunk.js.map",
+    "static/js/3.4b9410e9.chunk.js": "/gift-expert-app-react/static/js/3.4b9410e9.chunk.js",
+    "static/js/3.4b9410e9.chunk.js.map": "/gift-expert-app-react/static/js/3.4b9410e9.chunk.js.map",
+    "index.html": "/gift-expert-app-react/index.html",
+    "static/css/main.9d2953e1.chunk.css.map": "/gift-expert-app-react/static/css/main.9d2953e1.chunk.css.map",
+    "static/js/2.b5d0f97d.chunk.js.LICENSE.txt": "/gift-expert-app-react/static/js/2.b5d0f97d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f63a2a84.js",
+    "static/js/2.b5d0f97d.chunk.js",
+    "static/css/main.9d2953e1.chunk.css",
+    "static/js/main.f27fcf57.chunk.js"
+  ]
+}
